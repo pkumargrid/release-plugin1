@@ -32,7 +32,6 @@
   <scm>
     <developerConnection>scm:git:https://github.com/pkumargrid/release-plugin.git</developerConnection>
     <url>https://github.com/pkumargrid/release-plugin.git</url>
-    <tag>mvn-release-plugin-1-1.0</tag>
   </scm>
   <build>
     <extensions>
